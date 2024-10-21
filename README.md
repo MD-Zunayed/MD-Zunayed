@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/b86eb37112dcfa144993b16b2635e97101977490695e9f2176b89ee589868892/68747470733a2f2f77616c6c7061706572636176652e636f6d2f77702f7770323736333931302e676966)
+![MasterHead]()
 <h1 align="center">Greetings, I'm MD Zunayed</h1>
 <h3 align="center">A passionate CSE student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/wiSfckngHK5oGRKb1B.webp">
