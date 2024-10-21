@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Greetings, I'm MD Zunayed</h1>
 <h3 align="center">A passionate CSE student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/wiSfckngHK5oGRKb1B.webp">
